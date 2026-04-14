@@ -15,3 +15,5 @@ EXPOSE 80
 
 # Specify default commands when conatiner getting started based on the image.
 CMD [ "node", "server.js" ]
+
+# Testing GIT Sync
